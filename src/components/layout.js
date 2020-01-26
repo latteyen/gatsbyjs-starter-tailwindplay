@@ -403,6 +403,7 @@ function Layout({ children }) {
                 <button type="submit"
                         className="mx-auto lg:mx-0 hover:underline bg-white text-gray-800 font-bold rounded-full my-6 py-4 px-8 shadow-lg">Action!</button>
               </form>
+  </section>
   <form class="w-full max-w-lg">
   <div class="flex flex-wrap -mx-3 mb-6">
     <div class="w-full px-3">
@@ -441,7 +442,7 @@ function Layout({ children }) {
   </div>
 </form>
 
-            </section>
+            
 
             {/* Footer */}
             <footer className="bg-white">
